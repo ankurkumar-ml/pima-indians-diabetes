@@ -4,15 +4,15 @@ Developed a machine learning model to predict the onset of diabetes based on dia
 ## Install
 
 This project requires Python and the following Python libraries installed:
-- [Numpy]()
-- [Pandas]()
-- [Matplotlib]()
-- [Seaborn]()
-- [scikit-learn]()
+- [Numpy](https://numpy.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [scikit-learn](https://scikit-learn.org)
 
-You will also need to have software installed to run and execute a [Jupyter Notebook]()
+You will also need to have software installed to run and execute a [Jupyter Notebook](https://jupyter.org/)
 
-If you do not have Python installed yet, it is highly recommended that you install the [Anaconda]() distribution of Python, which already haa above packages and more included.
+If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](https://www.anaconda.com/) distribution of Python, which already haa above packages and more included.
 
 
 
