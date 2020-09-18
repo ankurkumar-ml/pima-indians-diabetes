@@ -4,7 +4,7 @@ Developed a machine learning model to predict the onset of diabetes based on dia
 ## Install
 
 This project requires Python and the following Python libraries installed:
-- [Numpy](#https://numpy.org/)
+- [Numpy](https://numpy.org/)
 - [Pandas](https://pandas.pydata.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/)
